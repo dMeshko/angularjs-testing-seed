@@ -6,7 +6,7 @@
 ====================================================================
 
 <h4>-download dependencies with the following command:</h4>
-<strong>npm install</strong>
+<code>npm install</code>
 
 <h4>-you run the server with the following command:</h4>
 <strong>grunt</strong>
