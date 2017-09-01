@@ -1,7 +1,7 @@
 # angularjs-testing-seed
-<p>karma - test runner, runs unit tests in all web browsers</p>
-<p>grunt - task runner, easy to read conf. format</p>
-<p>jasmine - test framework</p>
+<p><strong>karma</strong> - test runner, runs unit tests in all web browsers</p>
+<p><strong>grunt</strong> - task runner, easy to read conf. format</p>
+<p><strong>jasmine</strong> - test framework</p>
 
 ====================================================================
 
@@ -9,8 +9,8 @@
 <code>npm install</code>
 
 <h4>-you run the server with the following command:</h4>
-<strong>grunt</strong>
+<code>grunt</code>
 
 <h4>-you run the tests with the following commands:</h4>
-<p>unit: <strong>grunt karma:unit</strong></p>
-<p>e2e: <strong>npm run protractor</strong></p>
+<p>unit: <code>grunt karma:unit</code></p>
+<p>e2e: <code>npm run protractor</code></p>
