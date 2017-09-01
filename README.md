@@ -2,6 +2,8 @@
 <p><strong>karma</strong> - test runner, runs unit tests in all web browsers</p>
 <p><strong>grunt</strong> - task runner, easy to read conf. format</p>
 <p><strong>jasmine</strong> - test framework</p>
+<p><strong>web-driver-manager</strong> - the driver that runs the web browser</p>
+<p><strong>protractor</strong> - library that allows us to manipulate the web browser to make it interact with the app in the same way the user would</p>
 
 ====================================================================
 
