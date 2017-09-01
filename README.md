@@ -5,9 +5,12 @@
 
 ====================================================================
 
-<h4>you run the server with the followin command:</h4>
+<h4>-download dependencies with the following command:</h4>
+<strong>npm install</strong>
+
+<h4>-you run the server with the following command:</h4>
 <strong>grunt</strong>
 
-<h4>you run the tests with the following commands:</h4>
+<h4>-you run the tests with the following commands:</h4>
 <p>unit: <strong>grunt karma:unit</strong></p>
 <p>e2e: <strong>npm run protractor</strong></p>
