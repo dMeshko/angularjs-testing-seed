@@ -5,6 +5,7 @@ module.exports = function(config) {
         browsers: ["Chrome"],
 
         files: [
+            "dist/app.js",
             "spec/unit/*.js"
         ]
     });
